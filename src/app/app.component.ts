@@ -22,7 +22,7 @@ export class AppComponent implements OnInit {
         snaps: 60
       },
       {
-        title: 'Villa',
+        title: 'villa',
         description: 'maison de mes rêves.',
         imageUrl: 'https://realty-luxe.com/wp-content/uploads/2019/08/36195447_l-1920.jpg',
         createDate: new Date(),
